@@ -1,6 +1,6 @@
 # DeveloperLand
 
-##Aan de slag
+## Aan de slag
 
 Deze Repository (repo) bevat de front-end broncode van de DeveloperLand website. Je kunt deze vinden in de repo [curio-lesmateriaal/B1-template](https://github.com/curio-lesmateriaal/B1-template). Omdat wij geen toegang hebben om tot deze repo te schrijven en omdat het netter is eerst in onze eigen repo te werken maken wij een fork. Dat is een kopie waarin wij op onze eigen GitHub kunnen werken.
 
