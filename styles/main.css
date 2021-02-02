@@ -64,6 +64,12 @@ h1{
 h2{
   border-left: 5px solid #27AE60;
   padding-left: 10px;
+  text-shadow:
+  0 0 0 #FCFCFC,
+  -1px -1px 0 #FCFCFC,
+  1px -1px 0 #FCFCFC,
+  -1px 1px 0 #FCFCFC,
+  1px 1px 0 #FCFCFC;
 }
 
 main{
