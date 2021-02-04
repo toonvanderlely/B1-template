@@ -234,10 +234,10 @@ footer{
   }
 
   .row{
-    flex-direction: column;
+    flex-direction: row;
   }
   .sidy-by-side{
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
   }
 }
