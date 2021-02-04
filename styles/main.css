@@ -21,6 +21,11 @@ body, html{
   max-width: 960px;
   width:100%;
   margin: 0 auto;
+}
+
+.wrapper-bottom{
+  max-width: 960px;
+  width:100%;
   margin: 0 auto;
 }
 
