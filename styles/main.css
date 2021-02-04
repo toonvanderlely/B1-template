@@ -154,6 +154,11 @@ article h2.open-forever{
   display:inline-block;
 
 }
+.emphasize{
+ box-shadow: inset 0px 3px 8px -5px #27AE60, inset 0px -3px 8px -5px #27AE60;
+  padding: 1em;
+  margin: 0 auto;
+}
 
 .product{
   margin-right: 1em;
