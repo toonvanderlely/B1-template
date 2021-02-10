@@ -22,6 +22,9 @@ body, html{
   width:100%;
   margin: 0 auto;
 }
+button{
+  cursor: pointer;
+}
 
 .wrapper-bottom{
   max-width: 970px;
