@@ -250,11 +250,29 @@ footer{
     flex-direction: row;
   }
   .sidy-by-side{
-    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
+  }
+
+  .display{
+    display:inline;
+    padding-right: 30px;
+    padding-left: 45px;
   }
 }
 
+@media (max-width: 2000px) {
+    .sidy-by-side{
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .display{
+    display:inline;
+    padding-right: 30px;
+    padding-left: 45px;
+  }
+}
 /*
   help! Het lettertype wordt om een of andere reden niet goed geladen... Misschien heeft het iets met het pad naar de fonts te maken?
 */
